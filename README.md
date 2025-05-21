@@ -2,10 +2,7 @@
 <p align="center">Just weasting some oxygen from earth. For that reason, I am learning problem-solving,web devlopment and cyber security.<br>
 And these does not help to save the environment but this thing can 🌳. Then lets plant them.<br></p>
 <p align="center">1 year = 1🌳</p>
-<p align="center">
-  <img width="300" src="https://tenor.com/en-GB/view/cool-doge-cool-dog-dog-dance-dance-dog-dance-doge-gif-18253672">
 
-</p>
 
 
 
